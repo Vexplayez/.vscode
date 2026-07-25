@@ -2,7 +2,7 @@ import requests
 import time
 import os
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1480886473246118031/J4tkbhv1_wLlFEqDch39bcvDDH4O5scxr4umdWZkL_pyOa-UevsDg3LGmGtX2yS2JiO6"
+WEBHOOK_URL = "Https://discord.com/api/webhooks/1530363619626319923/0KSaOzwFFEJKZLUnf2A-SQdzrE0ELl4HPWi1Gddv5xpgksqKV1FjgedopLqd49vhL1iU"
 
 def start():
     os.system('cls' if os.name == 'nt' else 'clear')
